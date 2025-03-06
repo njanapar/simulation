@@ -71,17 +71,17 @@ GenerateProjectFiles.bat
 ###Step 3: Clone and Build CARLA
 ```bash
 git clone -b ue4-dev https://github.com/carla-simulator/carla
-
+```
 Download and extract assets
 ```bash
 update.bat
-
+```
 now compile CARLA
 ```bash
 make PythonAPI
-
+```
 ###launch the carla
 ```bash
 make launch
-
+```
 
