@@ -37,8 +37,6 @@ Gazebo is a simulation software that integrates well with ROS2. Install Gazebo b
 After installation, you can verify it by running the following command:
 
 ```bash
-gazebo
----
 
 ## Conclusion
 
