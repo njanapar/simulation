@@ -83,8 +83,13 @@ now compile CARLA
 ```bash
 make PythonAPI
 ```
-### Launch the carla
+
 ```bash
 make launch
 ```
+### comments
+Installation Time: The full installation process may take up to 6 hours depending on your system's speed.
+System Space: Ensure you have at least 200 GB of SSD space available.
+Graphics Card: A dedicated GPU with at least 6 GB of VRAM is required for smooth operation. Insufficient GPU memory may cause the simulation to crash.
+Python Virtual Environment: It is highly recommended to use a Python virtual environment when installing the .whl client library to avoid conflicts.
 
