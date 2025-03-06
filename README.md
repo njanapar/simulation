@@ -66,11 +66,12 @@ GenerateProjectFiles.bat
 - Open UE4.sln with Visual Studio.
 - Ensure ‘Development Editor’ and ‘Win64’ are selected.
 - Right-click UE4 in the Solution Explorer and click Build.
-- 
+  
 4.Verify the installation:
+
 -Launch the engine by running UE4Editor.exe from Engine\Binaries\Win64\.
 
-###Step 3: Clone and Build CARLA
+### Step 3: Clone and Build CARLA
 ```bash
 git clone -b ue4-dev https://github.com/carla-simulator/carla
 ```
