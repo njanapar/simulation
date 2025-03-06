@@ -60,11 +60,13 @@ This guide provides instructions for installing and setting up the CARLA simulat
    ```bash
    Setup.bat
 GenerateProjectFiles.bat
+```
 3.Build the engine:
 
 - Open UE4.sln with Visual Studio.
 - Ensure ‘Development Editor’ and ‘Win64’ are selected.
 - Right-click UE4 in the Solution Explorer and click Build.
+- 
 4.Verify the installation:
 -Launch the engine by running UE4Editor.exe from Engine\Binaries\Win64\.
 
