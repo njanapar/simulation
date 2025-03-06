@@ -80,7 +80,7 @@ now compile CARLA
 ```bash
 make PythonAPI
 ```
-###launch the carla
+### Launch the carla
 ```bash
 make launch
 ```
