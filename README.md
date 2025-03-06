@@ -93,3 +93,5 @@ System Space: Ensure you have at least 200 GB of SSD space available.
 Graphics Card: A dedicated GPU with at least 6 GB of VRAM is required for smooth operation. Insufficient GPU memory may cause the simulation to crash.
 Python Virtual Environment: It is highly recommended to use a Python virtual environment when installing the .whl client library to avoid conflicts.
 
+**Note:** You can find the code recipes and sample scripts to run in the Carla Simulator at the following link: [Carla Code Recipes](https://carla.readthedocs.io/en/0.9.9/ref_code_recipes/). You can try them out for your simulation needs.
+
